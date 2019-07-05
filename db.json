@@ -1,6 +1,34 @@
 {
   "users": [
-    { "id": "23", "firstName": "Joel", "age": 20 },
-    { "id": "45", "firstName": "Karen", "age": 50 }
+    {
+      "id": "23",
+      "firstName": "Oscar",
+      "age": 20,
+      "companyId": "1"
+    },
+    {
+      "id": "45",
+      "firstName": "Karen",
+      "age": 50,
+      "companyId": "1"
+    },
+    {
+      "id": "4",
+      "firstName": "Mandingo",
+      "age": 34,
+      "companyId": "2"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Cloud",
+      "description": "Software"
+    },
+    {
+      "id": "2",
+      "name": "LaLiga",
+      "description": "Football"
+    }
   ]
 }
